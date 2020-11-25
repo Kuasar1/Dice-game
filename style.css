@@ -8,7 +8,7 @@
 
 body {
   background: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)),
-    url("images/bg.jpg");
+    url("bg.jpg");
   background-size: cover;
   background-position: center;
   font-family: "Lato";
